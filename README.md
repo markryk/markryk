@@ -1,3 +1,5 @@
+<p align="center"><img width="25%" src="./assets/icon.png" /> &nbsp;&nbsp; <img width="25%" src="./assets/presentation.png" /></p>
+
 ### Hi there 👋
 
 <!--
