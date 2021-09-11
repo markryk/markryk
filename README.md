@@ -8,6 +8,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markryk&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
+## Tecnologias/Habilidades  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,17 +18,19 @@
 </div>
 
 <br><br>
+## Minhas redes sociais
 <div>
   <a href="https://www.linkedin.com/in/marcos-henrique-1536b41b2/">
     <img align="left" alt="MarkLinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   
   <a href="https://www.instagram.com/marcushenrick_dwg/">
-    <img align="left" alt="MarkLinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="MarcusHenrickInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-
-  <a href="https://instagram.com/marcushenrick_dwg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-henrique-1536b41b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  
+  <a href="https://www.instagram.com/markryk/">
+    <img align="left" alt="MarkRykInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
 </div>
 
 <!--
