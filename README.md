@@ -6,9 +6,15 @@
 
 <p>Só clicar na logo 👇🏽</p>
 <p display="inline-block" align="left">
-  <a href="https://markryksite.000webhostapp.com/"><img width="25%" src="./assets/logo_mh.png" /> (Vai direto para o site) </a>
+  <a href="https://markryksite.000webhostapp.com/">
+    <img width="25%" src="./assets/logo_mh.png" />
+    <figcaption> (Vai direto para o site) </figcaption>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://varioslinks.000webhostapp.com/"><img width="20%" src="./assets/logo_varioslinks.png" /> (Passa por um agregador de links)</a>
+  <a href="https://varioslinks.000webhostapp.com/">
+    <img width="20%" src="./assets/logo_varioslinks.png" />
+    <figcaption> (Passa por um agregador de links) </figcaption>
+  </a>
 </p>
 
 <!--### Hi there 👋-->
