@@ -1,6 +1,12 @@
 <p align="center"><img width="25%" src="./assets/icon.png" /> &nbsp;&nbsp; <img width="25%" src="./assets/presentation.png" /></p>
 
-### Hi there 👋
+<!--### Hi there 👋-->
+
+<div>
+  <!--<a href="https://beacons.ai/rafaballerini">-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markryk&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markryk&layout=compact&langs_count=16&theme=highcontrast"/>
+</div>
 
 <!--
 **markryk/markryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
