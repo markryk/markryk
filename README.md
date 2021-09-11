@@ -4,18 +4,15 @@
   
 ## Visite meu site
 
-<p>Só clicar na logo 👇🏽</p>
-<p display="inline-block" align="left">
-  <a href="https://markryksite.000webhostapp.com/">
-    <img width="25%" src="./assets/logo_mh.png" />
-    <figcaption> (Vai direto para o site) </figcaption>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://varioslinks.000webhostapp.com/">
-    <img width="20%" src="./assets/logo_varioslinks.png" />
-    <figcaption> (Passa por um agregador de links) </figcaption>
-  </a>
+<p>Só clicar em uma das logos 👇🏽</p>
+<p align="left">
+  <a href="https://markryksite.000webhostapp.com/"><img width="25%" src="./assets/logo_mh.png" /> </a> <figcaption> (Vai direto para o site) </figcaption>
 </p>
+  &nbsp;&nbsp;
+<p align="left">
+  <a href="https://varioslinks.000webhostapp.com/"><img width="20%" src="./assets/logo_varioslinks.png" /> </a> <figcaption> (Passa por um agregador de links) </figcaption>
+</p>
+
 
 <!--### Hi there 👋-->
 
