@@ -1,10 +1,15 @@
-## Apresentação
+## ✨ Apresentação ✨
 <p>Olá, me chamo Marcos Henrique</p>
+<br>
   
 ## Visite meu site
 
 <p>Só clicar na logo 👇🏽</p>
-<p align="left"><a href="https://varioslinks.000webhostapp.com/"><img width="25%" src="./assets/icon.png" /><!-- &nbsp;&nbsp; <img width="25%" src="./assets/presentation.png" />--></p></a>
+<p display="inline-block" align="left">
+  <a href="https://markryksite.000webhostapp.com/"><img width="25%" src="./assets/logo_mh.png" /> (Vai direto para o site) </a>
+  &nbsp;&nbsp;
+  <a href="https://varioslinks.000webhostapp.com/"><img width="20%" src="./assets/logo_varioslinks.png" /> (Passa por um agregador de links)</a>
+</p>
 
 <!--### Hi there 👋-->
 
