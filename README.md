@@ -3,10 +3,9 @@
 <!--### Hi there 👋-->
 
 <div>
-  <a href="https:varioslinks.000webhostapp.com/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markryk&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <a href="https://varioslinks.000webhostapp.com/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markryk&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markryk&layout=compact&langs_count=16&theme=highcontrast"/>
-  </a>
 </div>
 
 
@@ -19,6 +18,14 @@
 
 <br><br>
 <div>
+  <a href="https://www.linkedin.com/in/marcos-henrique-1536b41b2/">
+    <img align="left" alt="MarkLinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  
+  <a href="https://www.instagram.com/marcushenrick_dwg/">
+    <img align="left" alt="MarkLinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+
   <a href="https://instagram.com/marcushenrick_dwg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-henrique-1536b41b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
