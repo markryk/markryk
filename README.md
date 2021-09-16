@@ -1,7 +1,8 @@
-## ✨ Apresentação ✨
+## Apresentação ✨
 Olá, me chamo Marcos Henrique
-- Desenvolvedor web
-- Designer Gráfico
+- 🔭 Desenvolvedor web
+- 🔭 Designer Gráfico
+- 🌱 Estudando frontend/backend
 <br>
   
 ## Visite meu site 💻🤓
