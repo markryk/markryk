@@ -1,8 +1,10 @@
 ## ✨ Apresentação ✨
-<p>Olá, me chamo Marcos Henrique</p>
+Olá, me chamo Marcos Henrique
+- Desenvolvedor web
+- Designer Gráfico
 <br>
   
-## Visite meu site 🤓
+## Visite meu site 💻🤓
 
 <p>Só clicar em uma das logos 👇🏽</p>
 <div>
