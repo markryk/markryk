@@ -22,12 +22,6 @@ Olá, me chamo Marcos Henrique
 <br>
 
 <!--### Hi there 👋-->
-## Estatísticas 📈
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markryk&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markryk&layout=compact&langs_count=16&theme=highcontrast"/>
-</div>
 
 ## Tecnologias/Habilidades 💻💡
 
@@ -38,7 +32,8 @@ Olá, me chamo Marcos Henrique
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
-<br><br>
+<br>
+
 ## Minhas redes sociais 🖥📱
 <div>
   <a href="https://www.linkedin.com/in/marcos-henrique-1536b41b2/">
@@ -52,6 +47,15 @@ Olá, me chamo Marcos Henrique
   <a href="https://www.instagram.com/markryk/">
     <img align="left" alt="MarkRykInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
+</div>
+
+<br>
+
+## Estatísticas 📈
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markryk&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markryk&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
 <!--
