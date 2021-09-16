@@ -4,21 +4,25 @@
   
 ## Visite meu site
 
-<p>Só clicar em uma das logos 👇🏽</p>
-<p align="left">
-  <a href="https://markryksite.000webhostapp.com/"><img width="25%" src="./assets/logo_mh.png" /> </a> <figcaption> (Vai direto para o site) </figcaption>
-</p>
-  &nbsp;&nbsp;
-<p align="left">
-  <a href="https://varioslinks.000webhostapp.com/"><img width="20%" src="./assets/logo_varioslinks.png" /> </a> <figcaption> (Passa por um agregador de links) </figcaption>
-</p>
+<p>Só clicar em um dos links 👇🏽</p>
+<div>
+  <a href="https://markryksite.000webhostapp.com/">
+    <img width="20%" src="./assets/logo_mh.png" />
+    Direto ao site
+  </a>
 
+  <a href="https://varioslinks.000webhostapp.com/">
+    <img width="15%" src="./assets/logo_varioslinks.png" />
+    Agregador de links
+  </a>
+</div>
+<br>
 
 <!--### Hi there 👋-->
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markryk&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markryk&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markryk&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
 ## Tecnologias/Habilidades  
