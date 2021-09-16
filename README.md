@@ -2,9 +2,9 @@
 <p>Olá, me chamo Marcos Henrique</p>
 <br>
   
-## Visite meu site
+## Visite meu site 🤓
 
-<p>Só clicar em um dos links 👇🏽</p>
+<p>Só clicar em uma das logos 👇🏽</p>
 <div>
   <a href="https://markryksite.000webhostapp.com/">
     <img width="20%" src="./assets/logo_mh.png" />
@@ -19,13 +19,14 @@
 <br>
 
 <!--### Hi there 👋-->
+## Estatísticas 📈
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markryk&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markryk&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
-## Tecnologias/Habilidades  
+## Tecnologias/Habilidades 💻💡
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,7 +36,7 @@
 </div>
 
 <br><br>
-## Minhas redes sociais
+## Minhas redes sociais 🖥📱
 <div>
   <a href="https://www.linkedin.com/in/marcos-henrique-1536b41b2/">
     <img align="left" alt="MarkLinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
