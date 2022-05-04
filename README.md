@@ -44,7 +44,7 @@ Olá, me chamo Marcos Henrique
     <img align="left" alt="MarcusHenrickInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
   
-  <a href="https://www.instagram.com/markryk/">
+  <a href="https://www.instagram.com/mark_ryk/">
     <img align="left" alt="MarkRykInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 </div>
