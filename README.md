@@ -7,7 +7,9 @@ Olá, me chamo Marcos Henrique
   
 ## Visite meu site 💻🤓
 
-<p>Só clicar em uma das logos 👇🏽</p>
+<p> Em breve, mais informações </p>
+
+<!--<p>Só clicar em uma das logos 👇🏽</p>
 <div>
   <a href="https://markryksite.000webhostapp.com/">
     <img width="20%" src="./assets/logo_mh.png" />
@@ -18,7 +20,7 @@ Olá, me chamo Marcos Henrique
     <img width="15%" src="./assets/logo_varioslinks.png" />
     Agregador de links
   </a>
-</div>
+</div>-->
 <br>
 
 <!--### Hi there 👋-->
