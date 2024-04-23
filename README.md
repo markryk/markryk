@@ -33,10 +33,10 @@ Olá, me chamo Marcos Henrique
 ## Tecnologias/Habilidades 💻💡
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> &nbsp;
+  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 <br>
@@ -53,15 +53,15 @@ Olá, me chamo Marcos Henrique
     <img align="left" alt="MarkLinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
     <!-- Linkedin -->
   </a>
-  <!--&nbsp;&nbsp;&nbsp;-->
-  <br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <br><br> -->
   
   <a href="https://www.instagram.com/mark_ryk/">
     <img align="left" alt="MarkRykInstagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
     <!-- Instagram 1 -->
   </a>
-  <!--&nbsp;&nbsp;&nbsp;-->
-  <br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!--<br><br>-->
 
   <a href="https://www.instagram.com/marcushenrick_dwg/">
     <img align="left" alt="MarcusHenrickInstagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
