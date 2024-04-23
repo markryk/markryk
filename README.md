@@ -1,13 +1,18 @@
 ## Apresentação ✨
 Olá, me chamo Marcos Henrique
-- 🔭 Desenvolvedor web
+- 🔭 Fullstack Developer
+  - PHP
+  - HTML, CSS, Javascript
+  - MySQL/MariaDB
+    
+<!-- - 🔭 Desenvolvedor web -->
 <!-- - 🔭 Designer Gráfico -->
-- 🌱 Estudando frontend/backend
+<!-- - 🌱 Estudando frontend/backend -->
 <br>
   
-## Visite meu site 💻🤓
+<!-- ## Visite meu site 💻🤓 
 
-<p> Em breve, mais informações </p>
+<p> Em breve, mais informações </p> -->
 
 <!--<p>Só clicar em uma das logos 👇🏽</p>
 <div>
@@ -37,17 +42,30 @@ Olá, me chamo Marcos Henrique
 <br>
 
 ## Minhas redes sociais 🖥📱
+<!--<style>
+  a.stylization {
+    text-decoration: none;
+  }
+</style>-->
 <div>
-  <a href="https://www.linkedin.com/in/marcos-henrique-1536b41b2/">
-    <img align="left" alt="MarkLinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <!--<a href="https://www.linkedin.com/in/mark-ryk/" target="_blank" style="text-decoration: none;">-->
+  <a href="https://www.linkedin.com/in/mark-ryk/" target="_blank" style="text-decoration: none;">
+    <img align="left" alt="MarkLinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <!-- Linkedin -->
   </a>
-  
-  <a href="https://www.instagram.com/marcushenrick_dwg/">
-    <img align="left" alt="MarcusHenrickInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
+  <!--&nbsp;&nbsp;&nbsp;-->
+  <br><br>
   
   <a href="https://www.instagram.com/mark_ryk/">
-    <img align="left" alt="MarkRykInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="left" alt="MarkRykInstagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <!-- Instagram 1 -->
+  </a>
+  <!--&nbsp;&nbsp;&nbsp;-->
+  <br><br>
+
+  <a href="https://www.instagram.com/marcushenrick_dwg/">
+    <img align="left" alt="MarcusHenrickInstagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <!-- Instagram 2 -->
   </a>
 </div>
 
